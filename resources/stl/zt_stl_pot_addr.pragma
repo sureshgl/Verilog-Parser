@@ -1,0 +1,1 @@
+//pragma functionality_splitting {"functions" : [{"name" : "zt_stl_pot_addr" , "inputPorts" : ["vaddr"], "outputPorts" : ["vbadr","vradr"], "controlPorts" : ["vaddr"]}],"moduleName" : "zt_stl_pot_addr","parameters" : [{"name" : "NUMVBNK","defaultValue" : "8"},{"name" : "NUMVROW","defaultValue" : "1024"}]}

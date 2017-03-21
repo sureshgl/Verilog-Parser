@@ -1,0 +1,2 @@
+//pragma functionality_splitting {"functions" : [{"name" : "zt_stl_wrpri" , "inputPorts" : ["wr_in","wr_adr"], "outputPorts" : ["wr_out"], "controlPorts" : ["wr_in"]}],"moduleName" : "zt_stl_wrpri","parameters" : [{"name" : "BITADDR","defaultValue" : "8"},{"name" : "NUMWRPT","defaultValue" : "2"},{"name" : "ENAWPRI","defaultValue" : "1"}]}
+

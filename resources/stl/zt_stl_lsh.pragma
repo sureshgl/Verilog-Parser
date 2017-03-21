@@ -1,0 +1,1 @@
+//pragma functionality_splitting {"functions" : [{"name" : "zt_stl_lsh" , "inputPorts" : ["shift","din"], "outputPorts" : ["dout"],"controlPorts" : ["din"]}],"moduleName" : "zt_stl_lsh","parameters" : [{"name" : "NUMWRDS","defaultValue" : "4"},{"name" : "BITDATA", "defaultValue":"8"}]}

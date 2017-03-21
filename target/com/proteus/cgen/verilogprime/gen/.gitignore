@@ -1,0 +1,13 @@
+/VerilogPrime.tokens
+/VerilogPrimeBaseListener.java
+/VerilogPrimeBaseVisitor.java
+/VerilogPrimeLexer.java
+/VerilogPrimeLexer.tokens
+/VerilogPrimeListener.java
+/VerilogPrimeParser.java
+/VerilogPrimeVisitor.java
+/VerilogPrimeParser.tokens
+/VerilogPrimeParserBaseListener.java
+/VerilogPrimeParserBaseVisitor.java
+/VerilogPrimeParserListener.java
+/VerilogPrimeParserVisitor.java

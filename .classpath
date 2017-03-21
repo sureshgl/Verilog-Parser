@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="cfg"/>
+	<classpathentry kind="src" path="target"/>
+	<classpathentry excluding="com/memoir/parser/verilog/grammar/|grammar/|target/" kind="src" path="test"/>
+	<classpathentry kind="src" path="utils"/>
+	<classpathentry kind="src" path="tools"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/proteus_preprocess"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-3.8.jar"/>
+	<classpathentry kind="lib" path="lib/antlr-4.5-complete.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-asl-1.7.3.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-mapper-asl-1.7.3.jar"/>
+	<classpathentry kind="lib" path="lib/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.11.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 7 [1.7.0_79]"/>
+	<classpathentry kind="lib" path="lib/lombok-1.16.6.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/guava-10.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/logback-core-1.0.13.jar"/>
+	<classpathentry kind="lib" path="lib/logback-classic-1.0.13.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-schemas-3.8.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

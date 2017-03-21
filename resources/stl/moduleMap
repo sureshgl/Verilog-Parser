@@ -1,0 +1,23 @@
+{
+    "zt_stl_mem_1rw" : "zt_stl_mem_1rw.pragma",
+    "zt_stl_pot_addr" : "zt_stl_pot_addr.pragma",
+    "zt_stl_atom_1r1w" : "zt_stl_atom_1r1w.pragma",
+    "zt_stl_shift" : "zt_stl_shift.pragma",
+    "zt_stl_shift_fwrd" : "zt_stl_shift_fwrd.pragma",
+    "zt_stl_fwrd" : "zt_stl_fwrd.pragma",
+    "zt_des_1r1wt_1rw_atom_ff" : "zt_des_1r1wt_1rw_atom_ff.pragma",
+    "zt_stl_atom_5r2w" : "zt_stl_atom_5r2w.pragma",
+    "zt_des_2r1wt_2ror1w_atom_ff" : "zt_des_2r1wt_2ror1w_atom_ff.pragma",
+    "zt_stl_atom_bw_1r1w" : "zt_stl_atom_bw_1r1w.pragma",
+    "zt_stl_atom_bw_1r2w" : "zt_stl_atom_bw_1r2w.pragma",
+    "zt_stl_ping_atom_1r1w" : "zt_stl_ping_atom_1r1w.pragma",
+    "zt_stl_ping_atom_1r2w" : "zt_stl_ping_atom_1r2w.pragma",
+    "zt_stl_rsh" : "zt_stl_rsh.pragma",
+    "zt_stl_lsh" : "zt_stl_lsh.pragma",
+    "zt_stl_wrpri" : "zt_stl_wrpri.pragma",
+    "zt_stl_bw_fwrd" : "zt_stl_bw_fwrd.pragma",
+    "zt_stl_mem_psd_mrnw" : "zt_stl_mem_psd_mrnw.pragma",
+    "zt_stl_flat_atom_2r2w" : "zt_stl_flat_atom_2r2w.pragma",
+    "zt_stl_atom_2r1w" : "zt_stl_atom_2r1w.pragma",
+    "zt_stl_mem_1r1w" : "zt_stl_mem_1r1w.pragma"
+}

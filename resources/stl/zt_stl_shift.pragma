@@ -1,0 +1,2 @@
+//pragma functionality_splitting {"functions" : [{"name" : "zt_stl_shift" , "inputPorts" : ["din"], "outputPorts" : ["dout"], "controlPorts" : ["din"]}],"moduleName" : "zt_stl_shift","parameters" : [{"name" : "BITDATA","defaultValue" : "8"},{"name" : "DELAY","defaultValue" : "0"}]}
+

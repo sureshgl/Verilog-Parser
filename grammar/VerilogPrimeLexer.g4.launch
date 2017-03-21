@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.github.jknack.Antlr4.tool">
+<stringAttribute key="antlr4.arguments" value="-listener -visitor -encoding UTF-8 -o target/com/proteus/cgen/verilogprime/gen -package com.proteus.cgen.verilogprime.gen"/>
+<stringAttribute key="antlr4.grammar" value="/proteus_cgen/grammar/VerilogPrimeLexer.g4"/>
+<stringAttribute key="antlr4.vmArguments" value=""/>
+</launchConfiguration>
+
+
